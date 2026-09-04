@@ -6,7 +6,7 @@ It's a learning project: no error handling, no security mitigations. Request pat
 
 ## Path traversal
 
-<img width="1862" height="880" alt="path traversal demo" src="https://github.com/user-attachments/assets/b0e69614-bd06-43df-b9fe-5da62935a876" />
+<img width="1345" height="852" alt="new_image" src="https://github.com/user-attachments/assets/09c4fe88-5973-4025-b743-5c03410721f1" />
 
 Request used:
 
